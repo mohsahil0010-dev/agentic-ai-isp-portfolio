@@ -1,0 +1,5 @@
+outage_id,area,status,issue,started_at,estimated_restore
+OUT-001,Model Town,active,Fiber cable cut,2026-08-16 09:30,2026-08-16 15:00
+OUT-002,College Road,resolved,OLT power issue,2026-08-15 11:00,2026-08-15 12:30
+OUT-003,Chowk Azam,active,Main fiber signal degradation,2026-08-16 10:15,2026-08-16 17:00
+OUT-004,Karor Road,resolved,Router configuration problem,2026-08-14 08:00,2026-08-14 09:10

@@ -1,0 +1,9 @@
+customer_id,name,area,package,account_status,rx_power_dbm,payment_status,router_status
+80101,Ali Raza,Model Town,TW-10MBPS,active,-19.5,paid,online
+80102,Hamza Khan,College Road,TW-8MBPS,active,-27.8,paid,offline
+60103,Ayesha Noor,Chowk Azam,Z-6MBPS,active,-22.4,unpaid,online
+20104,Usman Tariq,Karor Road,MT-10MBPS,disabled,-24.1,unpaid,offline
+80105,Zain Ahmad,Model Town,TW-15MBPS,active,-30.2,paid,offline
+60106,Maryam Iqbal,College Road,Z-8MBPS,active,-18.7,paid,online
+80107,Bilal Hassan,Chowk Azam,TW-6MBPS,active,-25.6,unpaid,offline
+20108,Ahmed Nawaz,Karor Road,MT-8MBPS,active,-20.3,paid,online
