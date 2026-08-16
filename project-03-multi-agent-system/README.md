@@ -6,7 +6,7 @@ This project was developed as Project 3 of the Agentic AI course portfolio.
 
 ## Live Demo
 
-The public Streamlit deployment link will be added here after deployment.
+[Launch the SFN Multi-Agent Incident Response System](https://agentic-ai-isp-p3.streamlit.app/)
 
 ## Project Overview
 
