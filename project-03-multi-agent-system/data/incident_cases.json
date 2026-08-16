@@ -1,0 +1,67 @@
+[
+  {
+    "incident_id": "INC-001",
+    "customer_id": "SFN-DEMO-001",
+    "title": "Mixed fiber, network and billing fault",
+    "description": "Customer is offline, ONU shows red LOS, PPPoE is inactive, payment is recorded but the account remains disabled.",
+    "onu_pon_status": "offline",
+    "onu_los_status": "red",
+    "rx_power_dbm": -29.0,
+    "pppoe_status": "inactive",
+    "account_status": "disabled",
+    "payment_status": "paid",
+    "notes": "Fictional demonstration incident."
+  },
+  {
+    "incident_id": "INC-002",
+    "customer_id": "SFN-DEMO-002",
+    "title": "Weak optical signal",
+    "description": "The customer reports an unstable connection and the ONU RX power is weak.",
+    "onu_pon_status": "normal",
+    "onu_los_status": "off",
+    "rx_power_dbm": -25.5,
+    "pppoe_status": "active",
+    "account_status": "enabled",
+    "payment_status": "paid",
+    "notes": "Check connectors, bends, splices and DP signal."
+  },
+  {
+    "incident_id": "INC-003",
+    "customer_id": "SFN-DEMO-003",
+    "title": "Inactive PPPoE session",
+    "description": "The ONU appears normal but the router cannot establish a PPPoE session.",
+    "onu_pon_status": "normal",
+    "onu_los_status": "off",
+    "rx_power_dbm": -20.5,
+    "pppoe_status": "inactive",
+    "account_status": "enabled",
+    "payment_status": "paid",
+    "notes": "Check PPPoE credentials, router WAN configuration and service profile."
+  },
+  {
+    "incident_id": "INC-004",
+    "customer_id": "SFN-DEMO-004",
+    "title": "Paid customer account remains disabled",
+    "description": "The payment is recorded but the customer service account remains disabled.",
+    "onu_pon_status": "normal",
+    "onu_los_status": "off",
+    "rx_power_dbm": -21.0,
+    "pppoe_status": "inactive",
+    "account_status": "disabled",
+    "payment_status": "paid",
+    "notes": "Verify the receipt and billing period before approved restoration."
+  },
+  {
+    "incident_id": "INC-005",
+    "customer_id": "SFN-DEMO-005",
+    "title": "Healthy service verification",
+    "description": "The customer service is working and the supplied indicators appear normal.",
+    "onu_pon_status": "normal",
+    "onu_los_status": "off",
+    "rx_power_dbm": -19.5,
+    "pppoe_status": "active",
+    "account_status": "enabled",
+    "payment_status": "paid",
+    "notes": "Normal fictional comparison case."
+  }
+]
