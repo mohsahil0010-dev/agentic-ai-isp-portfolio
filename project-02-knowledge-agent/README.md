@@ -6,7 +6,9 @@ This project was developed as Project 2 of the Agentic AI course portfolio.
 
 ## Live Demo
 
-The public Streamlit deployment link will be added here after deployment.
+Try the deployed application:
+
+[Launch SFN Knowledge Decision Agent](https://sfn-knowledge-decision-agent.streamlit.app/)
 
 ## Project Overview
 
