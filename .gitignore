@@ -15,3 +15,10 @@ __pycache__/
 # Local databases and application secrets
 chroma_db/
 .streamlit/secrets.toml
+.venv/
+.venv-broken/
+project4env/
+__pycache__/
+*.pyc
+.env
+chroma_db/

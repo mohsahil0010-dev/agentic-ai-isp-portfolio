@@ -1,0 +1,8 @@
+streamlit
+langchain-groq
+chromadb
+pydantic
+pypdf
+python-dotenv
+pytest
+groq

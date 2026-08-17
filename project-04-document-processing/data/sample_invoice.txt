@@ -1,0 +1,14 @@
+SAHIL FIBER NET
+
+MONTHLY INTERNET INVOICE
+
+Invoice Number: INV-1002
+Date: 2026-08-17
+
+Customer ID: 80105
+Customer Name: Ali Raza
+Phone Number: 03001234567
+Address: Model Town, Layyah
+Package: TW-10MBPS
+Amount: Rs 2200
+Payment Status: Unpaid
