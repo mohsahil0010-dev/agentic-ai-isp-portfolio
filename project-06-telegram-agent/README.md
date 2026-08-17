@@ -3,6 +3,9 @@
 A production-style Telegram and Streamlit assistant for **SAHIL FIBER NET**. The assistant uses LangGraph, Groq, and ISP tools to understand customer requests, autonomously select the appropriate action, execute tools, and return a helpful response.
 
 This is Project 6 of the Agentic AI ISP Portfolio.
+## Live Demo
+
+[Open the deployed Project 6 application](https://agentic-ai-isp-p6.streamlit.app/)
 
 ## Overview
 
