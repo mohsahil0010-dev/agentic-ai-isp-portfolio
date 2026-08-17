@@ -1,0 +1,44 @@
+[
+  {
+    "name": "TW-6MBPS",
+    "provider": "TW",
+    "speed_mbps": 6,
+    "monthly_price": 1500,
+    "description": "Basic package for browsing and social media."
+  },
+  {
+    "name": "TW-10MBPS",
+    "provider": "TW",
+    "speed_mbps": 10,
+    "monthly_price": 2200,
+    "description": "Standard package for streaming and multiple devices."
+  },
+  {
+    "name": "TW-20MBPS",
+    "provider": "TW",
+    "speed_mbps": 20,
+    "monthly_price": 3500,
+    "description": "High-speed package for families and heavy streaming."
+  },
+  {
+    "name": "Z-4MBPS",
+    "provider": "Zong",
+    "speed_mbps": 4,
+    "monthly_price": 1200,
+    "description": "Entry-level internet package."
+  },
+  {
+    "name": "Z-8MBPS",
+    "provider": "Zong",
+    "speed_mbps": 8,
+    "monthly_price": 1800,
+    "description": "Balanced package for regular household use."
+  },
+  {
+    "name": "MT-10MBPS",
+    "provider": "MT",
+    "speed_mbps": 10,
+    "monthly_price": 2000,
+    "description": "Standard MT internet package."
+  }
+]

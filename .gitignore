@@ -23,3 +23,5 @@ __pycache__/
 .env
 chroma_db/
 communication_history.jsonl
+# Project 6 runtime data
+project-06-telegram-agent/data/runtime_tickets.json

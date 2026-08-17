@@ -1,0 +1,18 @@
+[
+  {
+    "outage_id": "OUT-001",
+    "area": "Model Town",
+    "issue": "Main fiber cable damage affecting internet service.",
+    "status": "active",
+    "started_at": "2026-08-17T12:30:00+05:00",
+    "expected_resolution": "Technical team is investigating."
+  },
+  {
+    "outage_id": "OUT-002",
+    "area": "Chowk Azam",
+    "issue": "OLT uplink interruption.",
+    "status": "resolved",
+    "started_at": "2026-08-16T08:00:00+05:00",
+    "expected_resolution": "Service restored."
+  }
+]

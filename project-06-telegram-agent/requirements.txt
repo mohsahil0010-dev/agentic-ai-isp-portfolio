@@ -1,0 +1,8 @@
+streamlit
+python-telegram-bot[webhooks]
+langgraph
+langchain-core
+langchain-groq
+pydantic
+python-dotenv
+pytest

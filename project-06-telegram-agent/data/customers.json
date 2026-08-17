@@ -1,0 +1,38 @@
+[
+  {
+    "customer_id": "80102",
+    "name": "Hamza Khan",
+    "phone_number": "03001234567",
+    "area": "Model Town",
+    "package_name": "TW-10MBPS",
+    "rx_power_dbm": -24.5,
+    "status": "active"
+  },
+  {
+    "customer_id": "80105",
+    "name": "Ali Raza",
+    "phone_number": "03007654321",
+    "area": "Model Town",
+    "package_name": "TW-10MBPS",
+    "rx_power_dbm": -30.2,
+    "status": "active"
+  },
+  {
+    "customer_id": "60650",
+    "name": "Awais Ismaeel",
+    "phone_number": "03111234567",
+    "area": "Layyah City",
+    "package_name": "Z-8MBPS",
+    "rx_power_dbm": -27.8,
+    "status": "active"
+  },
+  {
+    "customer_id": "20220",
+    "name": "Muneeb Khan",
+    "phone_number": "03211234567",
+    "area": "Chowk Azam",
+    "package_name": "MT-10MBPS",
+    "rx_power_dbm": -25.4,
+    "status": "disabled"
+  }
+]
