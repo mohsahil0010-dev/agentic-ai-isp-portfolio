@@ -1,0 +1,6 @@
+streamlit
+groq
+pydantic
+email-validator
+python-dotenv
+pytest
