@@ -1,0 +1,83 @@
+[
+  {
+    "id": "advance-fee-prize",
+    "name": "Advance-fee prize scam",
+    "category": "Prize and lottery",
+    "description": "The target is promised an unexpected prize but must first pay a processing, tax, delivery, or release fee.",
+    "signals": ["prize or lottery", "advance payment", "urgency and pressure"],
+    "keywords": ["winner", "won", "prize", "lottery", "reward", "processing", "fee", "claim", "congratulations"]
+  },
+  {
+    "id": "otp-account-takeover",
+    "name": "OTP or account-takeover scam",
+    "category": "Credential theft",
+    "description": "An impersonator asks for an OTP, PIN, password, CVV, recovery code, or other secret to take control of an account.",
+    "signals": ["sensitive secret request", "threat or fear", "urgency and pressure"],
+    "keywords": ["otp", "pin", "password", "cvv", "verification", "code", "account", "blocked", "confirm"]
+  },
+  {
+    "id": "fake-job-fee",
+    "name": "Fake job and recruitment-fee scam",
+    "category": "Employment fraud",
+    "description": "A high-paying or easy job is offered with little screening, followed by a demand for training, registration, equipment, or security fees.",
+    "signals": ["unexpected job selection", "advance payment", "move off platform"],
+    "keywords": ["job", "selected", "salary", "remote", "data", "entry", "training", "registration", "fee", "hired"]
+  },
+  {
+    "id": "delivery-phishing",
+    "name": "Parcel and delivery phishing",
+    "category": "Phishing",
+    "description": "A delivery problem or small fee is used to send the target to a fake tracking or payment page.",
+    "signals": ["suspicious link structure", "urgency and pressure", "advance payment"],
+    "keywords": ["parcel", "delivery", "courier", "tracking", "address", "customs", "fee", "reschedule", "package"]
+  },
+  {
+    "id": "bank-impersonation",
+    "name": "Bank or wallet impersonation",
+    "category": "Financial impersonation",
+    "description": "The sender pretends to be a bank or wallet provider and creates urgency around a blocked account, unauthorized payment, or identity check.",
+    "signals": ["threat or fear", "sensitive secret request", "suspicious link structure"],
+    "keywords": ["bank", "wallet", "easypaisa", "jazzcash", "account", "blocked", "transaction", "verify", "otp"]
+  },
+  {
+    "id": "investment-return",
+    "name": "Guaranteed investment return scam",
+    "category": "Investment fraud",
+    "description": "The target is promised unusually high or guaranteed returns and is pushed toward a difficult-to-reverse transfer.",
+    "signals": ["guaranteed return", "unusual payment method", "urgency and pressure"],
+    "keywords": ["investment", "profit", "return", "guaranteed", "crypto", "usdt", "bitcoin", "double", "daily"]
+  },
+  {
+    "id": "tech-support-remote",
+    "name": "Remote-access technical support scam",
+    "category": "Device takeover",
+    "description": "A fake support representative claims there is a device or account problem and asks the target to install remote-access software.",
+    "signals": ["remote access request", "threat or fear", "urgency and pressure"],
+    "keywords": ["support", "virus", "hacked", "anydesk", "teamviewer", "remote", "screen", "install", "technician"]
+  },
+  {
+    "id": "marketplace-payment",
+    "name": "Marketplace buyer or payment scam",
+    "category": "Marketplace fraud",
+    "description": "A fake buyer or seller moves the conversation off-platform and sends a false payment, courier, or refund link.",
+    "signals": ["move off platform", "suspicious link structure", "advance payment"],
+    "keywords": ["buyer", "seller", "marketplace", "courier", "payment", "refund", "whatsapp", "link", "confirm"]
+  },
+  {
+    "id": "authority-impersonation",
+    "name": "Government or authority impersonation",
+    "category": "Impersonation",
+    "description": "The scammer claims to represent police, tax, immigration, utilities, or another authority and demands immediate action or payment.",
+    "signals": ["threat or fear", "secrecy request", "urgency and pressure"],
+    "keywords": ["police", "tax", "court", "arrest", "legal", "penalty", "government", "immigration", "electricity"]
+  },
+  {
+    "id": "account-verification-phishing",
+    "name": "Account verification phishing",
+    "category": "Phishing",
+    "description": "A message claims an account must be verified or updated through a supplied link, which may capture login details.",
+    "signals": ["suspicious link structure", "threat or fear", "sensitive secret request"],
+    "keywords": ["account", "verify", "login", "update", "suspended", "confirm", "identity", "security", "link"]
+  }
+]
+
