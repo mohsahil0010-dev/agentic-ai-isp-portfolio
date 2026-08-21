@@ -10,7 +10,7 @@ The general chatbot uses Groq. The complete scam-analysis workflow is determinis
 
 ## Live application
 
-Add the deployed Streamlit URL here:
+[Open the deployed MindShield AI application](https://mindshield-ai-p7.streamlit.app/)
 
 `https://YOUR-APP-NAME.streamlit.app`
 
